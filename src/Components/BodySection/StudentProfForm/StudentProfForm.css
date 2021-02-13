@@ -1,6 +1,6 @@
 .list {
     width: 20%;
-    background-color: lightblue;
+    background-color:#283747;
     border-radius: 5px;
     margin: 25px;
     border: 2px solid black;
@@ -13,22 +13,22 @@
 }
 
 .element:hover {
-    background: lightslategray;
-    color: white;
+    background: white;
+    color: orangered;
 }
 
 .element a {
-    color: blue;
+    color:  black;
 }
 
 .element a:hover {
     text-decoration: none;
-    color: white;
+    color:orangered;
 }
 
 h3 {
-    background-color: black;
-    color: white;
+    background-color: white;
+    color: black;
     padding: 10px;
     border-radius: 5px;
 }

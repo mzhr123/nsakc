@@ -15,6 +15,7 @@ export const StudentProfForm = () =>{
         <section>
         <div>
             <HeaderSection/>
+            <StudentForm/>
         </div>
         <div className="list">
                 <ListGroup>
