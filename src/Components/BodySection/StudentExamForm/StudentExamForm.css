@@ -1,0 +1,29 @@
+ .addons{
+    position: absolute;
+    top: 15%;
+    border: 5px solid black;
+    width: 64.5%;
+    height: 32%;
+    margin-left: 25%;
+    padding: 5px;
+    border-radius: 10px;
+    text-align: justify;
+
+}
+.main .addons .button{
+ margin: 5px;
+ font-size: 13px;
+}
+.main .pdf {
+    position: absolute;
+    top: 53%;
+    border-radius: 10px;
+    border: 5px solid black;
+    width: 64.5%;
+}
+.pdf h1 {
+    padding: 10px;
+    background-color: darkgray;
+    color: white;
+    font-weight: bolder;
+}

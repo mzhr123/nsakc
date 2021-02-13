@@ -1,0 +1,22 @@
+div {
+    margin: 10px;
+}
+
+header {
+    margin-top: 1rem;
+    text-align: left;
+    padding: 20px;
+    background-color: lightslategray;
+}
+
+header a {
+    padding: 13px;
+    color: blue;
+    font-weight: bolder;
+}
+
+header #link:hover {
+    text-decoration: none;
+    color: white;
+    font-size: 15px;
+}
